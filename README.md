@@ -22,7 +22,7 @@
 **Database & Cloud:** MongoDB Atlas, MySQL, Cloudinary, Render  
 **Tools:** Git, GitHub, VS Code, Hoppscotch, Figma  
 
-## 📫 Contact
+## 🌐 Contact
 - Email: divyaydv08@gmail.com  
 - LinkedIn: [linkedin.com/in/divyaydv](https://www.linkedin.com/in/divyaydv)  
 - GitHub: [github.com/divyaydv](https://github.com/divyaydv)
