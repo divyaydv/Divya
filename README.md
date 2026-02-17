@@ -1,6 +1,6 @@
 # Hey, I'm Divya 👋
 
-**Full-Stack Software Engineer | Cybersecurity **
+Full-Stack Software Engineer | Cybersecurity 
 
 🔹 Passionate about building responsive and modern web applications   
 🔹 Worked on ML-powered URL threat detection and full-stack web projects  
